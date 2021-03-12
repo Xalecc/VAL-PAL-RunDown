@@ -1,6 +1,6 @@
 # VAL-PAL-RunDown
 
-Discord.js web scaraping bot for tracking Valorant stats
+Discord.js web scaraping bot for tracking Valorant competitive stats
 
 ### *help
 Displays a list of all commands availiable 
@@ -31,6 +31,6 @@ Displays Valorant Competitive KDA
 ---
 
 ### *serverCount
-Neat add-on that outputs the amount of servers VAL_PAL is serving! 
+Neat command that outputs the amount of servers VAL-PAL is serving! 
 
 ![Screenshot 2021-03-11 153852](https://user-images.githubusercontent.com/76600155/110869984-6fea8f80-8280-11eb-9a2c-8bcc3cbb1356.png)
