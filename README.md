@@ -1,4 +1,4 @@
-# VAL-PAL-RunDown
+# VAL-PAL RunDown
 
 Discord.js web scaraping bot for tracking Valorant competitive stats
 
